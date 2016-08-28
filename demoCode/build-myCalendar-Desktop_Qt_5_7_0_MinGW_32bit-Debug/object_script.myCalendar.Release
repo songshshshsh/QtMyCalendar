@@ -1,0 +1,12 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/draglabel.o
+./release/heheda.o
+./release/dndlistwidget.o
+./release/colorlisteditor.o
+./release/moc_mainwindow.o
+./release/moc_heheda.o
+./release/moc_dndlistwidget.o
+./release/moc_colorlisteditor.o
+);

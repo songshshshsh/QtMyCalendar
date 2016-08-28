@@ -1,0 +1,12 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/draglabel.o
+./debug/heheda.o
+./debug/dndlistwidget.o
+./debug/colorlisteditor.o
+./debug/moc_mainwindow.o
+./debug/moc_heheda.o
+./debug/moc_dndlistwidget.o
+./debug/moc_colorlisteditor.o
+);
